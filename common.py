@@ -15,7 +15,7 @@ def get_args():
 	parser.add_argument('--learn', help='type of training method', type=str, default='normal', choices=learner_collection.keys())
 	
 
-	parser.add_argument('--env', help='gym env id', type=str, default='FetchReach-v1', choices=Robotics_envs_id)
+	parser.add_argument('--env', help='gym env id', type=str, default='FetchPush-v1', choices=Robotics_envs_id)
 	args, _ = parser.parse_known_args()
 	if args.env=='HandReach-v0':
 		parser.add_argument('--goal', help='method of goal generation', type=str, default='reach', choices=['vanilla', 'reach'])
