@@ -62,7 +62,7 @@ if __name__=='__main__':
                 args.logger.add_record('TimeCost(sec)', time.time() - start_time)
                 args.logger.tabular_show(args.tag)
                 args.logger.summary_show(buffer.counter)
-
+                #same idea in https://github.com/erdiphd/COHER.git
                 if args.logger.values["Success/interval"]  > 0.7:
                     break
             if args.logger.values["Success/interval"] > 0.7:
