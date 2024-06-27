@@ -1,0 +1,27 @@
+Fri Dec 15 15:36:04 2023
+ERROR: GLEW initalization error: Missing GL version
+
+Sat May 11 21:44:51 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sat May 11 21:45:04 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sat May 11 21:50:04 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sun May 12 14:44:00 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sun May 12 14:47:57 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sun May 12 14:59:32 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sun May 12 15:39:07 2024
+ERROR: GLEW initalization error: Unknown error
+
+Sun May 12 18:41:53 2024
+ERROR: GLEW initalization error: Unknown error
+
